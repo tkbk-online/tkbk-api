@@ -104,7 +104,7 @@ print(msg.content[0].text)
 
 [Claude Code](https://tkbk.online/integrations/claude-code) · [Codex CLI](https://tkbk.online/codex-api-klyuch) · [Cursor](https://tkbk.online/claude-v-cursor) · [Cline и Roo Code](https://tkbk.online/integrations/cline-roo) · [n8n](https://tkbk.online/claude-api-n8n) · [все интеграции](https://tkbk.online/integrations)
 
-MCP-серверы для Wildberries, Ozon, Яндекс Маркета, Битрикс24 и amoCRM: [tkbk-mcp](https://github.com/berdniko9544-gif/tkbk-mcp).
+MCP-серверы для Wildberries, Ozon, Яндекс Маркета, Битрикс24 и amoCRM: [tkbk-mcp](https://github.com/tkbk-online/tkbk-mcp).
 
 ## Частые вопросы
 
