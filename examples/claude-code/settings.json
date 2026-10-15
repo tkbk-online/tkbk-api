@@ -1,0 +1,6 @@
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://api.tkbk.online",
+    "ANTHROPIC_AUTH_TOKEN": "cr_your_key"
+  }
+}
